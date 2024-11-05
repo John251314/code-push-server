@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "project_sufix": {
-        "value": "your_project_suffix"
+        "value": "1105"
       },
       "az_location": {
-        "value": "your_azure_location"
+        "value": "East Asia"
       },
       "github_client_id": {
-        "value": "your_github_client_id"
+        "value": "Ov23lizEVk9GdBK4BOFq"
       },
       "github_client_secret": {
-        "value": "your_github_client_secret"
+        "value": "52e9af0034fa6f139104f8c5491b2324e9e565fb"
       },
       "logging": {
         "value": true
